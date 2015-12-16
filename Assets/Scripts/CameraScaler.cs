@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 
-//The following code is based on https://youtu.be/HM17mAmLd7k
+/// <summary>
+/// The following code is based on https://youtu.be/HM17mAmLd7k
+/// </summary>
 [ExecuteInEditMode]
 [RequireComponent(typeof(Camera))]
 public class CameraScaler : MonoBehaviour
